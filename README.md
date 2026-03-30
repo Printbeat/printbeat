@@ -155,8 +155,7 @@ Denk aan:
 
 Gebruik deze profielen bij softproofing om vooraf te zien hoe je print eruit zal zien.
 
-👉 (Voeg hier links toe naar je GitHub repository met ICC-profielen)
-
+[https://www.printbeat.nl](https://www.printbeat.nl/icc-profiles)
 ---
 
 ## Samenvatting
@@ -166,12 +165,6 @@ ICC-profielen zorgen voor consistentie tussen scherm en print.
 Ze lossen het verschil tussen licht en reflectie niet op, maar maken het resultaat wel voorspelbaar. Dat is waar kleurbeheer om draait.
 
 ---
-
-## Gerelateerde onderwerpen
-
-- Resolutie en DPI  
-- Softproof workflow  
-- Papierkeuze  
 
 Voor praktische hulp of bestandscontrole:
 https://www.printbeat.nl
